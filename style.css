@@ -1,0 +1,19 @@
+h1 {
+    padding-top: 5px;
+    padding-left: 10px;
+    color: white;
+}
+div.data_diri {
+    padding-left: 30px;
+    font-size: 20px;
+    color: green;
+}
+div.data_diri a {
+    text-decoration: none; 
+    color: green;
+}
+div.data_diri img {
+    width: 150px; 
+    height: auto; 
+    vertical-align: text-top;
+}
