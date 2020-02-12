@@ -2,7 +2,7 @@
   "name": "profil",
   "version": "1.0.0",
   "description": "profil saya",
-  "main": "main.js",
+  "main": "main2.js",
   "scripts": {
     "start": "electron ."
   },
