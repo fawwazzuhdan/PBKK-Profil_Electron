@@ -1,0 +1,24 @@
+body {
+    background-color: white;
+    border-style: solid;
+    border-width: 5px;
+}
+form.form_d_diri {
+    background-color: grey;
+    padding: 5px;
+    position: absolute;
+}
+h1 {
+    padding-top: 5px;
+    padding-left: 10px;
+    color: black;
+}
+div.data_diri {
+    padding-left: 30px;
+    font-size: 20px;
+    color: black;
+}
+div.data_diri a {
+    text-decoration: none; 
+    color: black;
+}
